@@ -4,6 +4,7 @@ We are going to move project requirements and discussion to github for more deta
 
 # Snap!4iNav History
 
+```
 2022.11.09 v0.1
 2022.11.10 v0.2
 2022.11.10 v0.3
@@ -17,3 +18,4 @@ We are going to move project requirements and discussion to github for more deta
 2022.11.28 v0.11
 2022.12.03 v0.12
 2022.12.16 v0.13
+```
